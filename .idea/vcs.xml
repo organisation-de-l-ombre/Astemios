@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AstemiosCore/third-party/sleepy-discord" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AstemiosCore/third-party/sleepy-discord/deps/asio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AstemiosCore/third-party/sleepy-discord/deps/cpr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AstemiosCore/third-party/sleepy-discord/deps/websocketpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AstemiosLogger/third-party/termcolor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/sleepy-discord" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/sleepy-discord/deps/asio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/sleepy-discord/deps/cpr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/sleepy-discord/deps/cpr/opt/curl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/sleepy-discord/deps/cpr/opt/googletest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/sleepy-discord/deps/cpr/opt/mongoose" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/sleepy-discord/deps/websocketpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/sleepy-discord/opt/mongoose" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/termcolor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/third-party/vcpkg" vcs="Git" />
+  </component>
+</project>
