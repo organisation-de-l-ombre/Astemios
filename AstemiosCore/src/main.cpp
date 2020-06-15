@@ -13,7 +13,8 @@ int main(void) {
     loggerManager.RegisterLoggerLayer(new Astemios::AstemiosLogger::ConsoleLogger());
 
     manager.RegisterCommand(new CommandTest(&loggerManager));
-    std::string* message = new std::string("Test hey!");
+    auto message = new std::string("Test hey!");
+
     for (int i = 0; i < 1000; i++)
         manager.Execute(message);
 
